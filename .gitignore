@@ -27,7 +27,7 @@ hs_err_pid*
 .idea
 out
 bin
-
+*.vscode
 
 # Text ui test actual
 text-ui-test/ACTUAL.TXT
